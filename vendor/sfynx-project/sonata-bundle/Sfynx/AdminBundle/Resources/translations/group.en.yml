@@ -1,7 +1,0 @@
-# Help
-help: Help
-help.group.name: recommended group
-help.role.name: recommended role
-
-# fields
-field.group.name : Name

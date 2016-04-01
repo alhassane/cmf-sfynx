@@ -1,6 +1,0 @@
-##
-## SfynxMigrationBundle configuration
-##
-#sfynx_migration: 
-#    path_dir:
-#        migration: "%kernel.root_dir%/migration/"

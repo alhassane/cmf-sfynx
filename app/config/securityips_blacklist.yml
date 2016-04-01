@@ -1,4 +1,0 @@
-parameters:
-    security_ip_blacklist:
-        - 127.0.0.1
-        - ::1
